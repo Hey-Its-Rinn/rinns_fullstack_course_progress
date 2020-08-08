@@ -1,0 +1,62 @@
+h1{
+  font-family: 'Teko', sans-serif;
+  text-align: center;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 90%;
+  /* border: 5px solid black; */
+  border-spacing: 10px;
+}
+
+tr{
+  /* outline: 3px solid red; */
+}
+
+
+td{
+  /* border:1px solid green; */
+}
+
+#color_one{
+  background: #54478c;
+}
+
+#color_two{
+  background: #2c699a;
+}
+
+#color_three{
+  background: #048ba8;
+}
+
+#color_four{
+  background: #0db39e;
+}
+
+#color_five{
+  background: #16db93;
+}
+
+#color_six{
+  background: #83e377;
+}
+
+#color_seven{
+  background: #b9e769;
+}
+
+#color_eight{
+  background: #efea5a;
+}
+
+#color_nine{
+  background: #f1c453;
+}
+
+#color_ten{
+  background: #f29e4c;
+}
